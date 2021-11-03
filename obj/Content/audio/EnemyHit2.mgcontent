@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/Desktop/swinburne semester 2/COS20007/making custom game from scratch using xna and monogame/TopDownGame - Copy (2)/TopDownGame/Content/audio/EnemyHit2.wav</SourceFile>
+  <SourceTime>2021-10-21T06:22:52.9980341+06:00</SourceTime>
+  <DestFile>C:/Users/User/Desktop/swinburne semester 2/COS20007/making custom game from scratch using xna and monogame/TopDownGame - Copy (2)/TopDownGame/bin/Content/audio/EnemyHit2.xnb</DestFile>
+  <DestTime>2021-11-02T13:39:23.4654168+06:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T22:17:54+06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T22:17:54+06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

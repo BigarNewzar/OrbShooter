@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/Desktop/swinburne semester 2/COS20007/making custom game from scratch using xna and monogame/TopDownGame - Copy (2)/TopDownGame/Content/pic/activelogicscreen.png</SourceFile>
+  <SourceTime>2021-11-02T09:45:36.8961829+06:00</SourceTime>
+  <DestFile>C:/Users/User/Desktop/swinburne semester 2/COS20007/making custom game from scratch using xna and monogame/TopDownGame - Copy (2)/TopDownGame/bin/Content/pic/activelogicscreen.xnb</DestFile>
+  <DestTime>2021-11-02T13:39:32.5698008+06:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T22:17:54+06:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T22:17:54+06:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
